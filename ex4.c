@@ -1,3 +1,8 @@
+// program CALCULA_FUNCAO
+//
+// Autor: Renato Biancalana da Silva <me@reesilva.com>
+// Data:  30/09/2015
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>

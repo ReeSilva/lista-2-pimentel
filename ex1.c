@@ -1,3 +1,8 @@
+// program CALCULA_FATORIAL
+//
+// Autor: Renato Biancalana da Silva <me@reesilva.com>
+// Data:  30/09/2015
+
 #include <stdio.h>
 #include <stdlib.h>
 
