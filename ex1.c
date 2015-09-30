@@ -21,7 +21,7 @@ int main() {
 
   // Pede para o usuário digitar cada valor do array, assim o usuário pode fazer o que quiser.
   for(iI = 0; iI < 15; iI++) {
-    printf("Digite o %d valor: \n", iI);
+    printf("Digite o %d valor: \n", iI+1);
     scanf("%d", &vA[iI]);
     
     // Impede valor negativo, assumindo que o usuário queria zero.
