@@ -25,6 +25,7 @@ int main() {
     printf("Brasil!\n");
   }
 
+  system("pause");
   return 0;
 
 }
